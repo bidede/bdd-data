@@ -1,4 +1,3 @@
 pendulum
 ccxt
 pymongo
-ws4py
